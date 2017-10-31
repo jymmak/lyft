@@ -1,9 +1,9 @@
 /*
  * Estilos de tu proyecto
  */
+ /* GENERAL ASPECTS */
 *{
     font-family: 'Montserrat', sans-serif;
-
     padding: 0;
     margin: 0px;
 }
@@ -11,17 +11,19 @@ body{
 margin:0 auto;
 }
 
-
+/* HEADER SECTION */
 header{
 	position: fixed;
-    width: 100%;
+  width: 100%;
 	height: 70%;
 }
+
+/* MENU NAVIGATION */
 
 .menu{
 	background-size: cover;
     height: 20%;
-    background: #5c0e6b;
+    /*background: #5c0e6b;*/
     width:100%;
     position: absolute;
 
@@ -39,9 +41,16 @@ header{
     display:inline-block;
 }
 
+.menu li a:hover {
+  cursor: pointer;
+  color: #FF00BF;
+}
+
+
 .botton-login {
   float: left;
   transform: translateY(-140%);
+  clear: both;
 }
 
 .login{
@@ -63,9 +72,13 @@ header{
     padding: 15px;
 
     font-size: 20px;
-
-
 }
+
+.login:hover {
+  cursor: pointer;
+}
+
+
 .logo img{
     width: 60px;
     margin-left: 60px;
@@ -75,34 +88,89 @@ header{
 	padding-right: 550px;
 }
 
-/* RIDING WEST SECTION       */
+/* RIDING WEST SECTION */
 .driven {
  display: block;
  background: yellow;
- height: 592px;
+ height: 250vh;
+ padding-top: 10%;
+ vertical-align: top;
+
+
+}
+
+.box-text {
+  outline: 1px solid red;
+  box-sizing: content-box;
+  float: left;
+  height: 540px;
+  width: 500px;
+  margin-right: 20px;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+
+.box-text h5 {
+
+  color: #FF00BF;
+}
+
+.box-text h5 a{
+  text-decoration: none;
+}
+
+.box-text h2 {
+  font-weight: bold;
+}
+
+.box-text p {
+  font-weight: lighter;
+}
+
+.image-driven {
+  outline: 1px solid green;
+  box-sizing: border-box;
+  float: right;
+  width: 906px;
+
+  height: 510px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+
+}
+
+.image-driven img {
+
+
 }
 
 
 
 
-/*ROUND UP & DONATE SECTION        */
 
 
 
 
-/*PRODUCT SECTION       */
+/*ROUND UP & DONATE SECTION */
 
 
 
 
-/*    NEWS SECTION    */
+/*PRODUCT SECTION */
 
 
 
 
-/* FIND LYFT IN YOUR CITY SECTION -       */
+/*NEWS SECTION */
 
 
 
 
-/*  FOOTER SECTION      */
+/* FIND LYFT IN YOUR CITY SECTION */
+
+
+
+
+/*  FOOTER SECTION */
