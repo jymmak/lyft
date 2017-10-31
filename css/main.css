@@ -31,13 +31,8 @@ header{
 
 .menu{
 	background-size: cover;
-<<<<<<< HEAD
-    height: 30%;
-    background: #5c0e6b;
-=======
     height: 20%;
     /*background: #5c0e6b;*/
->>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
     width:100%;
   
 
@@ -100,20 +95,6 @@ header{
 .logo{
 	padding-right: 550px;
 }
-<<<<<<< HEAD
-.form{
-	background: white;
-	width: 500px;
-	height: 300px;
-    float: right;
-	outline: 1px solid red;
-    padding-bottom: 60px;
-    padding-left: 80px;
-    color: #352384;
-    z-index: 1;
-    position: relative; 
-    margin-top:120px;   
-=======
 
 /* RIDING WEST SECTION */
 .driven {
@@ -179,7 +160,6 @@ header{
 .image-driven img {
 
 
->>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 }
 
 .form h1{
@@ -218,8 +198,6 @@ button{
 	color:#FF00BF;
    }
 
-<<<<<<< HEAD
-=======
 
 
 
@@ -235,7 +213,6 @@ button{
 
 
 /*NEWS SECTION */
->>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 
 .box-1{
 	background: white;
@@ -262,17 +239,7 @@ button{
 	margin-top:10px;
 	
 
-<<<<<<< HEAD
-}
-.p1{
-	color: #C6CDDD;
-	left: 100px;
-	width: 200px;
-	margin-top:10px;
-}
-=======
 /* FIND LYFT IN YOUR CITY SECTION */
->>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 
 .boton-log{
 	
