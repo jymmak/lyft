@@ -38,6 +38,12 @@ header{
     text-decoration: none;
     display:inline-block;
 }
+
+.botton-login {
+  float: left;
+  transform: translateY(-140%);
+}
+
 .login{
     width: 10%;
     height: 40%;
@@ -50,6 +56,14 @@ header{
     background-color:#5c0e6b;
     color:white;
     margin-left:1100px;
+
+
+    border-radius: 10px;
+    border: 1px solid #fff;
+    padding: 15px;
+
+    font-size: 20px;
+
 
 }
 .logo img{
