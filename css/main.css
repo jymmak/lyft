@@ -1,6 +1,7 @@
 /*
  * Estilos de tu proyecto
  */
+ /* GENERAL ASPECTS */
 *{
     font-family: 'Montserrat', sans-serif;
     padding: 0;
@@ -11,20 +12,32 @@ margin:0 auto;
 height:100% ;
 }
 
-
+/* HEADER SECTION */
 header{
 	position: fixed;
+<<<<<<< HEAD
     width: 100%;
 	height: 100%;
 	overflow: hidden;
 	clear: both;
 
+=======
+  width: 100%;
+	height: 70%;
+>>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 }
+
+/* MENU NAVIGATION */
 
 .menu{
 	background-size: cover;
+<<<<<<< HEAD
     height: 30%;
     background: #5c0e6b;
+=======
+    height: 20%;
+    /*background: #5c0e6b;*/
+>>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
     width:100%;
   
 
@@ -42,9 +55,16 @@ header{
     display:inline-block;
 }
 
+.menu li a:hover {
+  cursor: pointer;
+  color: #FF00BF;
+}
+
+
 .botton-login {
   float: left;
   transform: translateY(-140%);
+  clear: both;
 }
 
 .login{
@@ -65,9 +85,13 @@ header{
     border: 1px solid #fff;
     padding: 15px;
     font-size: 20px;
-
-
 }
+
+.login:hover {
+  cursor: pointer;
+}
+
+
 .logo img{
     width: 60px;
     margin-left: 65px;
@@ -76,6 +100,7 @@ header{
 .logo{
 	padding-right: 550px;
 }
+<<<<<<< HEAD
 .form{
 	background: white;
 	width: 500px;
@@ -88,6 +113,73 @@ header{
     z-index: 1;
     position: relative; 
     margin-top:120px;   
+=======
+
+/* RIDING WEST SECTION */
+.driven {
+ display: block;
+ background: yellow;
+ height: 250vh;
+ padding-top: 10%;
+ vertical-align: top;
+
+
+}
+
+.box-text {
+  outline: 1px solid red;
+  box-sizing: content-box;
+  float: left;
+  height: 200px;
+  width: 500px;
+  margin-right: 20px;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  padding-top: 180px;
+  padding-left: 140px;
+  line-height: 1.5;
+}
+
+.box-text h5 {
+  color: #FF00BF;
+  font-size: 18px;
+  font-weight: 200;
+  margin-bottom: 7px;
+}
+
+.box-text h5 a{
+  text-decoration: none;
+}
+
+.box-text h2 {
+  font-weight: bold;
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+
+.box-text p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.image-driven {
+  outline: 1px solid green;
+  box-sizing: border-box;
+  float: right;
+  width: 906px;
+
+  height: 510px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+
+}
+
+.image-driven img {
+
+
+>>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 }
 
 .form h1{
@@ -126,6 +218,24 @@ button{
 	color:#FF00BF;
    }
 
+<<<<<<< HEAD
+=======
+
+
+
+
+/*ROUND UP & DONATE SECTION */
+
+
+
+
+/*PRODUCT SECTION */
+
+
+
+
+/*NEWS SECTION */
+>>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 
 .box-1{
 	background: white;
@@ -152,6 +262,7 @@ button{
 	margin-top:10px;
 	
 
+<<<<<<< HEAD
 }
 .p1{
 	color: #C6CDDD;
@@ -159,6 +270,9 @@ button{
 	width: 200px;
 	margin-top:10px;
 }
+=======
+/* FIND LYFT IN YOUR CITY SECTION */
+>>>>>>> 2d674713e30ab69d8178413660e0c29d9bb1427a
 
 .boton-log{
 	
