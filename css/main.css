@@ -99,6 +99,7 @@ button{
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
+/*FORM SECTION */
 .container-1{
 	background-image: url(../assets/images/hero.gif);
 	background-size: cover;
@@ -216,7 +217,7 @@ hr .line-1{
 	line-height: 40px;
 }
 
-/* RIDING WEST SECTION */
+/* DRIVEN  SECTION */
 .driven {
 	overflow: hidden;
     clear: both;
@@ -261,7 +262,7 @@ hr .line-1{
 	 position:absolute;
 	
 }
-
+/* RIDIN WEST SECTION */
 .ridin{
 	ove
 	rflow: hidden;
