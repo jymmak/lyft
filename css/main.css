@@ -194,6 +194,8 @@ hr .line-1{
     text-align: left;
     margin-top: 25px;
 }
+
+/*PHONE SECTION */
 .container-2{
 	background: #692588;
 	padding-top: 20px;
@@ -208,7 +210,6 @@ hr .line-1{
 	margin-top: -380px;
 	bottom: 50px;
 	margin-right: 230px;
-
 }
 .box-2{
 	
@@ -217,74 +218,58 @@ hr .line-1{
 	line-height: 40px;
 }
 
-/* DRIVEN  SECTION */
-.driven {
-	overflow: hidden;
+/*AMPLIFY SECTION */
+.contenedor-3{
+    overflow: hidden;
     clear: both;
 }
-   
-.box-text {
-	 /*outline: 1px solid red;*/
-	 box-sizing: content-box;
-	 margin-top: 90px;
-	 margin-left: 30px;
-	 line-height: 1.5;
-	
+.box-3{
+	width: 500px;
+	margin-left: 70px;
+	margin-top: 0px;
+	text-align: justify;
+	padding-top: 40px;
 	
 }
-.box-text h5 {
-	 color: #FF00BF;
-	 font-size: 18px;
-	 font-weight: 100;
+.watch{
+    text-decoration: none;
 }
-   
-.box-text h5 a{
-	 text-decoration: none;
+.amp{
+	width: 500px;
+	/*outline: 1px solid blue;*/
+	text-align: left;
+	font-size: 28px;	
 }
-   
-.box-text h2 {
-	 font-weight: bold;
-	 font-size: 30px;
-	 margin-bottom: 20px;
-}
-   
-.box-text p {
-	 font-size: 20px;
-	 font-weight: lighter;
- }
-   
-.image-driven {
-	 /*outline: 1px solid green;*/
-	 box-sizing: border-box;
-	 margin-left: 443px;
-	 position:absolute;
-}
-
-/* RIDIN WEST SECTION */
-.ridin{
-	ove
-	rflow: hidden;
-	clear: both;
-	margin-top: -4px;
+.parr1{
+	width: 350px;
+	/*outline: 1px solid yellow;*/
+	margin-left: 80px
+	line-height:70px;
+	font-size: 18px;
 }
 .video-1{
-	width: 100%;
-	margin-top:103px;
-}
-.text-ridin{
 	float: right;
-	margin-top:220px;
-	padding-right: 60px;
+	/*outline: 1px solid red;*/
+	margin: 0px;
 }
-.j{
-	padding-top: 10px;
+
+/*JUNE SECTION */
+.container-4{
+	overflow: hidden;
+	clear: both;
+
 }
-.parr2{
-	padding-top:20px;
+.box-4{
+	width: 400px;
+	margin-right: 80px;
+	margin-top: 30px;
+	text-align: justify;
+	float: right;
 }
-.see{
-	margin-right: 30px;
+.video-2{
 	text-decoration: none;
+	margin:0px;
+	float:left;
 }
 .j{
 	text-align: left;
@@ -293,48 +278,3 @@ hr .line-1{
 .parr2{
 	font-size: 18px;
 }
-
-/* ROUND SECTION */
-.round {
-	overflow: hidden;
-    clear: both;
-}
-   
-.round-text {
-	 /*outline: 1px solid red;*/
-	 box-sizing: content-box;
-	
-	 margin-left: 30px;
-	 line-height: 1.5;
-	 padding: 40px;
-}
-.round-text h5 {
-	 color: #FF00BF;
-	 font-size: 18px;
-	 font-weight: 100;
-}
-   
-.round-text h5 a{
-	 text-decoration: none;
-}
-   
-.round-text h2 {
-	 font-weight: bold;
-	 font-size: 30px;
-	 margin-bottom: 20px;
-}
-   
-.round-text p {
-	 font-size: 20px;
-	 font-weight: lighter;
- }
-   
-.image-round {
-	 /*outline: 1px solid green;*/
-	 box-sizing: border-box;
-	 margin-left: 600px;
-	 position:absolute;
-
-}
-
-   
