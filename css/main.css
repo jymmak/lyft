@@ -256,12 +256,10 @@ hr .line-1{
 .image-driven {
 	 /*outline: 1px solid green;*/
 	 box-sizing: border-box;
-
-	
 	 margin-left: 443px;
 	 position:absolute;
-	
 }
+
 /* RIDIN WEST SECTION */
 .ridin{
 	ove
@@ -296,5 +294,47 @@ hr .line-1{
 	font-size: 18px;
 }
 
+/* ROUND SECTION */
+.round {
+	overflow: hidden;
+    clear: both;
+}
+   
+.round-text {
+	 /*outline: 1px solid red;*/
+	 box-sizing: content-box;
+	
+	 margin-left: 30px;
+	 line-height: 1.5;
+	 padding: 40px;
+}
+.round-text h5 {
+	 color: #FF00BF;
+	 font-size: 18px;
+	 font-weight: 100;
+}
+   
+.round-text h5 a{
+	 text-decoration: none;
+}
+   
+.round-text h2 {
+	 font-weight: bold;
+	 font-size: 30px;
+	 margin-bottom: 20px;
+}
+   
+.round-text p {
+	 font-size: 20px;
+	 font-weight: lighter;
+ }
+   
+.image-round {
+	 /*outline: 1px solid green;*/
+	 box-sizing: border-box;
+	 margin-left: 600px;
+	 position:absolute;
+
+}
 
    
