@@ -278,3 +278,145 @@ hr .line-1{
 .parr2{
 	font-size: 18px;
 }
+
+/*GOOD SECTION */
+.container-5{
+	overflow: hidden;
+	clear: both;
+    margin-top: -4px;
+}
+.video-3{
+float: right;
+bottom: 100px;
+}
+.box-5{
+    width: 500px;
+    margin-left: 0px;
+	text-align: justify;
+	margin-top: 30px;
+}
+
+.watch3{
+	text-decoration: none;
+	margin-left: 90px;
+}
+.A{
+	font-size: 28px;
+	margin-left: 90px;
+}
+.parr3{
+	font-size: 18px;
+	width: 350px;
+	margin-left: 90px;
+}
+
+/*FOOTER SECTION */
+footer{
+	overflow: hidden;
+	background: #333447;
+	/*outline: 1px solid red;*/
+	padding-top: 110px;
+	margin-top: -4px;
+}
+.line-2{
+	border: 1px solid #C6CDDD;
+	width: 500px;
+	margin-top: 100px;
+	
+}
+
+.imagen ul li{
+	list-style: none;
+	padding: 20px;
+	
+}
+.apple img{
+	width: 10%;
+}
+.microsoft img{
+	width: 10%;
+}
+.google img{
+    width: 10%;
+}
+.list-1 {
+	float: left;
+	line-height: 50px;
+	/*outline: 1px solid red;*/
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.list-1 li a{
+	text-decoration: none;
+}
+.list-1 ul{
+	list-style: none;
+}
+.list-1 a{
+	color:white;
+}
+.list-1 a:hover{
+	color:#B30086;
+}
+.list-2 ul {
+	float:left;
+	/*outline: 1px solid green;*/
+	line-height: 50px;
+	list-style: none;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.list-2  li a{
+	text-decoration: none;
+	color: white;
+}
+
+.list-2 a:hover{
+	color:#B30086; 
+}
+.list-3{
+	float:right;
+	/*outline: 1px solid blue;*/
+	float: left;
+	margin-left: 100px;
+	margin-right: 200px;
+	line-height: 50px;
+
+}
+
+.list-3 ul{
+	list-style: none;
+}
+.list-3 li a{
+	text-decoration: none;
+	color: white;
+}
+.list-3 a:hover{
+	color:#B30086; 
+
+}
+.iconos{
+	margin-left: 550px;
+
+}
+.iconos p{
+	color: white;
+	width: 250px;
+	/*outline: 1px solid blue;*/
+	margin-right: 50px;
+	text-align: center;
+}
+.fa-facebook, .fa-twitter, .fa-instagram{
+ width: 20px;
+ height: 20px;
+ -moz-border-radius: 50%;
+ -webkit-border-radius: 50%;
+  border-radius: 50%;
+  border: 2px solid white;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  margin-left: 20px;
+  
+}
